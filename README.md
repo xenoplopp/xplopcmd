@@ -4,8 +4,8 @@ EX: `%test`
 Commands | Description
 ------------ | -------------
 ping | Get the bot uptime and current ping.
-join | Join a channel (Not available yet.)
-part | Part from a channel (Not available yet.)
+join | Join a channel (Not available to the public yet.)
+part | Part from a channel (Not available to the public yet.)
 ricat | Get a random image of cat. 🐱
 commands | Brings you to this page.
 roll | Input a number for the bot to roll EX: %roll 100 -> @USER, Your number is 51!
