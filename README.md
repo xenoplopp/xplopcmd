@@ -3,16 +3,19 @@ This bot uses `%` as it's prefix.
 EX: `%test`
 Commands | Description
 ------------ | -------------
-tuck | Tuck's a user to bed.
+ping | Get the bot uptime and current ping.
+join | Join a channel (Currently only available in channel @XenoPlopQB.)
+part | Part from a channel (Not available yet.)
+ricat | Get a random image of cat. 🐱
+commands | Brings you to this page.
 roll | Input a number for the bot to roll EX: %roll 100 -> @USER, Your number is 51!
-gn | Bot wishes you a good night.
-test | Test command.
 8ball | Get your fortune.
 `rr/rt`|Roulette timeout - 1-300 secs.
-`vanish/v`| Become transparent ✌. Vanishes you from chat.
+`!vanish`* | Become transparent ✌. Vanishes you from chat. 
 bot | What is this bot about...
 pingme | Pings you for whenever you want to get pinged.
 
 Commands `highlighted like this` will need to be modded to work.
 * To make it work, simply type `/mod XplopBot` into your chat.
 
+*Command uses the ! prefix instead of the usual %.
