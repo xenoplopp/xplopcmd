@@ -15,7 +15,7 @@ roll | Input a number for the bot to roll EX: %roll 100 -> @USER, Your number is
 bot | What is this bot about...
 pingme | Pings you for whenever you want to get pinged.
 
-Commands `highlighted like this` will need to be modded to work.
+Commands that are `highlighted` will need to be modded to work.
 * To make it work, simply type `/mod XplopBot` into your chat.
 
 *Command uses the ! prefix instead of the usual %.
