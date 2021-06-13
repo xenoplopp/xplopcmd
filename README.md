@@ -4,7 +4,7 @@ EX: `%test`
 Commands | Description
 ------------ | -------------
 ping | Get the bot uptime and current ping.
-join | Join a channel (Currently only available in channel @XenoPlopQB.)
+join | Join a channel (Not available yet.)
 part | Part from a channel (Not available yet.)
 ricat | Get a random image of cat. 🐱
 commands | Brings you to this page.
