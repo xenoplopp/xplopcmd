@@ -8,7 +8,6 @@ join | Join a channel (Not available to the public yet.)
 part | Part from a channel (Not available to the public yet.)
 ricat | Get a random image of cat. 🐱
 commands | Brings you to this page.
-roll | Input a number for the bot to roll EX: %roll 100 -> @USER, Your number is 51!
 8ball | Get your fortune.
 `rr/rt`|Roulette timeout - 1-300 secs.
 `!vanish`* | Become transparent ✌. Vanishes you from chat. 
